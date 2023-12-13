@@ -1,0 +1,15 @@
+.selected{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+.seleccionada{
+    background-color: #2c4e7e;
+    color: white;
+}
+.selected:hover{
+    background-color: #15455c;
+    color: white;
+}
+table{
+    width: 100%;
+}
